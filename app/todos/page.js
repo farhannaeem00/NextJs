@@ -28,7 +28,7 @@ const Todo = async () => {
                     </li>
             ))}
             
-        </div>}>
+        </div>}>    
                 <TodoItems />
             </Suspense>
             <Suspense fallback={<h2>Loading Slow1 Response</h2>}>

@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Slow2 = async () => {
-  const slowResponse2 = await fetch('https://procodrr.vercel.app/?sleep=2000')
+  const slowResponse2 = await fetch('https://procodrr.vercel.app/?sleep=3000')
   const slow2 = await slowResponse2.json()
 
   return (
