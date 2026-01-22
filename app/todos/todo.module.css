@@ -22,7 +22,6 @@
     align-items: center;
     gap: 0.5rem;
     padding: 0.75rem 0;
-
 }
 
 .shimmer-checkbox{
@@ -32,7 +31,7 @@
     background-size: 200% 100%;
     animation: shimmerAnimation 1.5s infinite;
     border-radius: 4px;
-}
+} 
 .shimmer-text{
     width: 200px;
     height: 16px;
